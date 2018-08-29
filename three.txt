@@ -1,1 +1,3 @@
 This is the third file generated from branch b3
+
+Add a line in master
